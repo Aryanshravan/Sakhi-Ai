@@ -1,0 +1,12 @@
+{
+  "name": "sakhi-ai",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n web,api -c yellow,cyan \"npm run dev:web\" \"npm run dev:api\"",
+    "dev:web": "npm --prefix frontend run dev",
+    "dev:api": "cd backend && .venv\\Scripts\\python -m uvicorn app.main:app --port 8000"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

@@ -1,0 +1,31 @@
+# Secrets (example templates stay tracked)
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+next-env.d.ts
+*.tsbuildinfo
+npm-debug.log*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Deployment
+.vercel/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
