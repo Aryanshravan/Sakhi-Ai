@@ -120,7 +120,7 @@ flowchart LR
 | Frontend | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4 | UI and voice interaction |
 | Backend | Python, FastAPI, Pydantic, Uvicorn | APIs and application logic |
 | AI | Google Gemini (REST API, model `gemini-3.5-flash-lite`) | Reply phrasing, answer judging, report writing |
-| Speech-to-Text | Gnani (`gnani-vachana` SDK, model `prisma-v3.0`) | Voice input |
+| Speech-to-Text | Gnani (`gnani-vachana` SDK, model `prisma-v2.5`) | Voice input |
 | Text-to-Speech | Gnani (`gnani-vachana` SDK, model `timbre-v2.5`) | Spoken responses and report voice notes |
 | Database | PostgreSQL on Supabase, `psycopg` 3 with connection pool | Profiles, sessions, learning evidence, reports |
 | Messaging | Telegram Bot API (via `httpx`) | Parent voice-note reports |
