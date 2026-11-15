@@ -45,7 +45,7 @@ Sakhi AI addresses these with:
 |---|---|
 | Voice-first learning | Hands-free loop: the child speaks, speech is transcribed, Sakhi replies in speech, then listens again. |
 | Parent and child profiles | A parent registers the child's profile (child name, grade, language). Login uses a generated User ID (`SAKHI-XXXX`) and a PIN. |
-| Grade-specific learning | Lesson content is written for Grade 3. |
+| Grade-specific learning | Lesson content is written for primary schooling kids. |
 | Multilingual teaching | English, Hinglish or Telglish teaching medium; learning targets (words, letters, numbers) always stay in English. |
 | Word reading | Words progress from 2 to 3 to 4 letters. A word the child cannot read is taught letter by letter, then blended. |
 | Sentence reading | Each new sentence is taught by audio: every word is spelled letter by letter and pronounced, then the sentence is read slowly, then the child is asked to read it. |
