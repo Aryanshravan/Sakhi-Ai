@@ -256,7 +256,7 @@ Use placeholders such as `YOUR_API_KEY` in documentation and never publish real 
 
 ## Current Implementation Status
 
-Sakhi AI is live and working end to end for **Grade 3**:
+Sakhi AI is live and working end to end for early or primary schooling kids:
 
 - Voice learning in the browser with English, Hinglish or Telglish teaching.
 - Activities: word reading, sentence reading, alphabet, numbers 1 to 100, addition, subtraction, and four science topics.
@@ -272,14 +272,8 @@ The following are ideas, not available features:
 - More personalised learning pathways based on recorded mistakes.
 - Richer visual learning interactions.
 - Parent analytics across sessions, such as progress over time.
-- Additional report channels and integrations.
+- Additional report channels and integrations(WhatsApp).
 
-## Contributing
-
-1. Fork the repository and create a branch: `git checkout -b feature/short-description`.
-2. Keep changes small and focused; do not commit secrets or `.env` files.
-3. Run the checks relevant to your change (for the frontend, `npm run lint` and `npm run build` in `frontend/`).
-4. Commit with a clear message, push your branch and open a pull request describing what changed and why.
 
 ## License
 
